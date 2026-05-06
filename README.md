@@ -125,23 +125,9 @@ You can now control all relays using the web interface.
 
 ---
 
-## 📸 Demo
 
-(Add images or video links here)
 
----
 
-## 🔗 GitHub Repository
-
-https://github.com/your-username/smart-multi-plug
-
----
-
-## 📬 Author
-
-Developed as an IoT project using ESP8266 and cloud + web integration.
-
----
 
 ## ⭐ If you like this project
 
